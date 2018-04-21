@@ -10,6 +10,7 @@ For help getting started with Flutter, view our online
 ### The Screen
 
 This is how the code looks like on android device
+<br/>
 <img src="https://github.com/hi-manshu/Flutter-Login-Screen/blob/master/assets/Screenshot_20180421-173154.jpg" width="40%">.
 
 ### To Run the app in your local machine
