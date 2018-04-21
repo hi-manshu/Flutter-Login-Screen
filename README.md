@@ -9,7 +9,7 @@ For help getting started with Flutter, view the online
 
 ### The Screen
 
-This is how the it looks like on android device
+This is how it looks like on android device
 <br/>
 <img src="https://github.com/hi-manshu/Flutter-Login-Screen/blob/master/assets/Screenshot_20180421-173154.jpg" width="40%">.
 
