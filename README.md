@@ -15,7 +15,7 @@ This is how it looks like on android device
 
 ### To Run the app in your local machine
 
-Clone the repository and user
+Clone the repository and use
 ```
 flutter run
 ```
